@@ -1,4 +1,4 @@
-#Social media application using graphql
+# Social media application using graphql
 
 [![](https://www.linkpicture.com/q/Screenshot_4_76.png)](https://www.linkpicture.com/q/Screenshot_4_76.png)
 
